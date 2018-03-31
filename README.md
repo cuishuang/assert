@@ -11,7 +11,7 @@ with improved support for things like nil pointers, etc.
 Installation
 ------------
 
-    $ go get github.com/stvp/assert
+    $ go get github.com/isdamir/assert
 
 API
 ---
